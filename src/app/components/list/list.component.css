@@ -1,0 +1,21 @@
+.list-item {
+  display: grid;
+  grid-template-columns: 40px auto 40px;
+  color: #851dae;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: monospace;
+  border-bottom: 1px solid #851dae;
+}
+
+.list-item:hover {
+  background-color: #f5d1dd;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.participant-item {
+  padding: 0 3px;
+}
